@@ -1,0 +1,8 @@
+http://www.coachella.com/lineup/
+
+> var anchors = $x("//a[contains(text(), 'Twitter')]");
+> var i;
+> artistsHandle = [];
+> for (i = 0; i < anchors.length; i++) {
+  artistsHandles.push(anchors[i].toString().substr(20));
+}
