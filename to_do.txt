@@ -2,6 +2,9 @@ NLTK
 train classifier
 do sentiment analysis
 
+Implement this:
+http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
+
 kmeans/clustering stuff
 
 visualizations
