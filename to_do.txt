@@ -1,0 +1,7 @@
+NLTK
+train classifier
+do sentiment analysis
+
+kmeans/clustering stuff
+
+visualizations
