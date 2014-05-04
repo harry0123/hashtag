@@ -1,10 +1,5 @@
-NLTK
-train classifier
-do sentiment analysis
+better training data for sentiment analysis
 
-Implement this:
-http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
-
-kmeans/clustering stuff
+last.fm analysis
 
 visualizations
