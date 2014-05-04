@@ -3,3 +3,7 @@ better training data for sentiment analysis
 last.fm analysis
 
 visualizations
+
+
+rate limited for follower count. maybe think of a way where we don't need
+lots of them
