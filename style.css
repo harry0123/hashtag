@@ -1,0 +1,13 @@
+body {
+	font-family: "Lucida Sans Unicode";
+}
+
+a {
+	text-decoration: none;
+}
+
+.map {
+	position: relative;
+	height: 600px;
+	width: 1200px;
+}
